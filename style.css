@@ -1,0 +1,41 @@
+
+
+header {
+    display: flex;
+    position: relative;
+    color: blue;
+    justify-content: space-between;
+}
+
+.pageHead, .quesBox, .start {
+    text-align: center;
+}
+
+.quesBox {
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.enterInitials {
+    display: flex;
+}
+
+.mainBody {
+    align-items: center;
+
+    justify-content: center;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+    left: 0;
+    display: block;
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+#scoreList {
+    display: block;
+}
